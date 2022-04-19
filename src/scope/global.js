@@ -1,17 +1,17 @@
 // var hello = "Hello";
 // console.log(hello);
 
-var hello = "Hello";
-let world = "Hello world";
-const helloWorld = "Hello World!";
+// var hello = "Hello";
+// let world = "Hello world";
+// const helloWorld = "Hello World!";
 
-const anotherFunction = () => {
-  console.log(hello);
-  console.log(world);
-  console.log(helloWorld);
-}
+// const anotherFunction = () => {
+//   console.log(hello);
+//   console.log(world);
+//   console.log(helloWorld);
+// }
 
-anotherFunction();
+// anotherFunction();
 
 //No se debe hacer los siguiente:----------------
 const helloWorld = () => {
